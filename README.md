@@ -1,7 +1,9 @@
 # python-setup
 
 ### pyenv with pipenv which has all kinds of compatibility
+### Befoe doing anything in centos check following article 
 
+https://www.linuxtut.com/en/e883e562fb7fddcfeec9/
 #### Install Pyenv
 
 1. Installing Pyenv is typically done via running the following script:
